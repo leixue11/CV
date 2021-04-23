@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Controlling Martensitic Transformation Characteristics in Defect-Free NiTi Shape Memory Alloys Fabricated Using Laser Powder Bed Fusion and a Process Optimization Framework](/sample_page)
+<img src="images/GraphicalAbstract1.PNG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
